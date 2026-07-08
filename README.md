@@ -4,3 +4,7 @@ Practicing basics
 **FS**
 
 *REPURCUSSION*
+
+> suits
+> Harvey Specter
+> Mike Ross
