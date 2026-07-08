@@ -11,4 +11,5 @@ Practicing basics
 
 1. rice
 2. potato
-3. tomato
+3. tomato \
+![jpeg](image.jpeg)
